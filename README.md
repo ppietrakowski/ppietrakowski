@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppietrakowski
 - 👀 I’m interested in programming, learning linux and playing RPG games 
-- 🌱 I’m currently learning C/C++, linux CLI
+- 🌱 I’m currently learning Unreal Engine 5
 - 📫 How to reach me: email pawelpietrakowski22012001@gmail.com
 
 <!---
